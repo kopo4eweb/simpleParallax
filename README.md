@@ -14,7 +14,7 @@ $(document).ready(function () {
 ## option
 ```javascript
 parallaxArea: 60, /* def: '60', parallax area of image */
-parallaxStart: 20, /* def: '20', start parallax area iamge */
+parallaxStart: 20, /* def: '20', start parallax area image */
 /* parallaxArea + parallaxStart = not large 100 percent */
 parallaxRun: 'up', /* def: 'up', variant: ('up'/'down') */
 parallaxZoom: '' /* def: none, zoomin: '+', zoomout: '-' */
